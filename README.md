@@ -24,4 +24,5 @@
    <a href="https://www.linkedin.com/in/joão-santos-9569b9232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </div>
   
-  ![Snake animation] (https://github.com/joaoSantosx/joaoSantosx/blob/output/github-conrtibution-grid-snake.svg)
+  
+  
