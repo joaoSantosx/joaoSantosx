@@ -1,6 +1,6 @@
 ## Olá me chamo João Victor 👋
 
-- 🖥️ Atualmente atuo em uma área contábil
+- 🖥️ Atualmente atuo como Dev RPA
 - 📔 Curso Ciência da Computação
 - 😊 Adoro programar...
 
