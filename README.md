@@ -1,6 +1,7 @@
 ## Olá me chamo João Victor 👋
 
-- 🖥️ Atualmente atuo como Dev RPA
+- 🖥️ Atualmente atuo como Key User SAP Business One
+- 👨‍💻 Utilizo Banco de dados principalmente no meu dia a dia para desenvolver relatórios e consultas direcionadas ao ERP
 - 📔 Curso Ciência da Computação
 - 😊 Adoro programar...
 
