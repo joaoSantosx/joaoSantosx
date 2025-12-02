@@ -5,10 +5,6 @@
 - 📔 Curso Ciência da Computação
 - 😊 Adoro programar...
 
-<div>
- <img height= "168em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=joaoSantosx&layout=compact&langs_count=16&theme=dracula"/>
- </div>
-
  
   <div style= "display: inline_block"><br>
    <img align= "center" alt= "Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
