@@ -1,9 +1,8 @@
 ## Olá me chamo João Victor 👋
 
-- 🖥️ Atualmente atuo como Key User SAP Business One
+- 🖥️ Atualmente atuo como Key User SAP Business One/Especialista SAP Business One
 - 👨‍💻 Utilizo Banco de dados principalmente no meu dia a dia para desenvolver relatórios e consultas direcionadas ao ERP
-- 📔 Curso Ciência da Computação
-- 😊 Adoro programar...
+- 📔 Formado em Ciência da Computação
 
  
   <div style= "display: inline_block"><br>
